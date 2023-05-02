@@ -1,8 +1,8 @@
 /*
  SerialEdgeDetection.h
  
- Created by Manisha on 25/01/18.
- Copyright © 2018 Manisha. All rights reserved.
+ Created by Preetham Kannan on 25/01/18.
+ Copyright © 2018 Preetham Kannan. All rights reserved.
  
  SerialEdgeDetection.h is to perform convolution on the given matrix.
  */
